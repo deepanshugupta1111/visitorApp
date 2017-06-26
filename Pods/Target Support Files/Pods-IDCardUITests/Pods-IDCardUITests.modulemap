@@ -1,0 +1,6 @@
+framework module Pods_IDCardUITests {
+  umbrella header "Pods-IDCardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
